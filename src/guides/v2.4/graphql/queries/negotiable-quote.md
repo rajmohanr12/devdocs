@@ -82,7 +82,6 @@ query{
         }
       }
     }
-    uid
     updated_at
   }
 }
